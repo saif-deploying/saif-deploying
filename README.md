@@ -48,7 +48,7 @@
 - 🌐 [Portfolio](https://saifcloud.me)
 - 💼 [LinkedIn](https://linkedin.com/in/mohamed-saif-eldeen)
 - 🐦 [Twitter](https://x.com/msaifeldeen)
-- 📧 devops.saif@yourdomain.com
+- 📧 saif@aqaryint.com
 
 ---
 
